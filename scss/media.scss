@@ -1,0 +1,30 @@
+// Mobile
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    height: 120px;
+    padding: 20px;
+
+    ul {
+      a {
+        padding: 10px 10px;
+        margin: 0 3px;
+      }
+    }
+  }
+
+  .grid-items {
+    grid-template-columns: 1fr;
+  }
+
+  .grid-columns,
+  .column,
+  .flex-grid .row {
+    grid-template-columns: 1fr;
+    max-width: 100%;
+  }
+
+  .team img {
+    width: 70%;
+  }
+}
