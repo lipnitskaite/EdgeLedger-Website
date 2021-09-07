@@ -255,6 +255,8 @@ img {
   height: 200px; }
   .footer .social > * {
     margin-right: 30px; }
+    .footer .social > *:nth-of-type(4), .footer .social > *:last-child {
+      margin-right: 0; }
   .footer .social a {
     color: #fff; }
     .footer .social a:hover {

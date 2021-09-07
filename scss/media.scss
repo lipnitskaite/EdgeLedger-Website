@@ -27,4 +27,13 @@
   .team img {
     width: 70%;
   }
+
+  #contact {
+    .column {
+      input {
+        border-radius: 0;
+        -webkit-appearance: none;
+      }
+    }
+  }
 }
