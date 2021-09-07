@@ -17,4 +17,8 @@
     width: 70%; }
   #contact .column input {
     border-radius: 0;
-    -webkit-appearance: none; } }
+    -webkit-appearance: none; }
+  .hero.blog {
+    height: 35vh; }
+    .hero.blog .content h1 {
+      margin-top: 3.5rem; } }
