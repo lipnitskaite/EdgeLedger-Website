@@ -1,9 +1,19 @@
-# EdgeLedger Website
+# Проект: Финансовая компания EdgeLedger
+## Обзор
+- Интро
+- Демонстрация лендинга
+- Технологии
 
-Financial company website landing. 
+## Интро
+Проект лендинга для финансовой компании EdgeLedger. Адаптирован для устройств шириной в 320, 768, 1024 и 1280 пикселей.
 
-### Tech stack:
-- HTML & CSS (including grid, flexbox, SASS)
-
-### Landing demo:
+## Демонстрация лендинга
 https://stupefied-knuth-36a68d.netlify.app/
+
+## Используемые технологии
+- Стек: HTML & CSS
+- Препроцессор SASS
+- Media Queries для адаптации
+
+## Статус проекта
+Завершен.
